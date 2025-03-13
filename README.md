@@ -1,15 +1,17 @@
 # DevOps
 
-**Linux**
+**1 Linux**
 
-**Python**
+**2 Python**
 
-**Git & Github**
+**3 Git & Github**
 
-**Docker**
+**4 Docker**
 
-**Jenkins**
+**5 Jenkins**
 
-**Kubernetes**
+**6 AWS**
 
-**CI CD**
+**7 Kubernetes**
+
+**8 CI CD**
