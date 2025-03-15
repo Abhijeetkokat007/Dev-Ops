@@ -15,3 +15,5 @@
 **7 Kubernetes**
 
 **8 CI CD**
+
+**9 Terraform**
