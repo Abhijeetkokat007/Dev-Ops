@@ -15,6 +15,8 @@
 
 **7 Kubernetes**
 
-**8 CI CD Pipeline**
+**8 Ansible**
 
-**9 Terraform**
+**9 CI CD Pipeline**
+
+**10 Terraform**
